@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_45"/>
+	<classpathentry kind="lib" path="src/lib/andes-client-3.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/geronimo-jms_1.1_spec-1.1.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="src/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-1.5.10.wso2v1.jar"/>
+	<classpathentry kind="lib" path="src/lib/org.wso2.carbon.logging-4.4.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/org.wso2.securevault-1.0.0-wso2v2.jar"/>
+	<classpathentry kind="lib" path="src/lib/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="src/lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
